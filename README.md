@@ -10,7 +10,7 @@
 
 Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdata-archiving/DataRescueNYC/tree/af42cfc16f5dcd86404a4abc5d92fc0da9361acb), [DataRescueMIT](https://github.com/datarescue-boston/DataRescueMIT-Event), [DataRescueSFBay](https://github.com/DataRescueSFBay/DataRescueSFBay-Event).
 
-# Welcome to DataRescue Los Angeles @ UCLA Mar 11, 2017! Please:
+# Welcome to DataRescue Los Angeles Mar 11, 2017! Please:
 
 1. **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**  
 [Update this link to a tailored version of the Code of Conduct as needed]
@@ -59,5 +59,6 @@ Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdat
 
 ## Learn more about the Web and Data Archiving process
 
+- [DataRescue Workflow](https://datarefuge.github.io/workflow) offers more detail about archiving complex datasets and Archivers app 
 - DataRefuge's [Chain of Custody](http://www.ppehlab.org/blogposts/2017/2/1/data-refuge-rests-on-a-clear-chain-of-custody)
 - [EDGI's preservation tools](https://github.com/edgi-govdata-archiving/overview)
