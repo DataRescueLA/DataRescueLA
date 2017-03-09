@@ -16,7 +16,7 @@ Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdat
 [Update this link to a tailored version of the Code of Conduct as needed]
 1. **Join the Slack**  
 **https://rauchg-slackin-qonsfhhvxs.now.sh/,** and **`#datarescue-la` channel**
-1. **Familiarize yourself with the four tracks, and think about which you would join:**  
+1. **Familiarize yourself with the [four tracks] (https://datarefuge.github.io/workflow), and think about which you would join:**  
 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Next Steps
 1. **On the day of the event**
   * [Add any specific details for attendees, e.g. registration instructions, timing (if a track only starts in the afternoon)]
@@ -58,7 +58,6 @@ Examples previous events includes [DataRescueNYC](https://github.com/edgi-govdat
 ****
 
 ## Learn more about the Web and Data Archiving process
-
-- [DataRescue Workflow](https://datarefuge.github.io/workflow) offers more detail about archiving complex datasets and Archivers app 
+ 
 - DataRefuge's [Chain of Custody](http://www.ppehlab.org/blogposts/2017/2/1/data-refuge-rests-on-a-clear-chain-of-custody)
 - [EDGI's preservation tools](https://github.com/edgi-govdata-archiving/overview)
